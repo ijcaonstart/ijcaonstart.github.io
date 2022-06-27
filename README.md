@@ -1,17 +1,17 @@
-## Welcome to GitHub Pages
+## Ij.start.canon
 
-You can use the [editor on GitHub](https://github.com/ijcaonstart/ijcaonstart.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The Canon printer which is one of the preferred printers is also popular for photo printing. ij.start.canon is the best-selling printer; it is impossible to beat Canon if we talk about quality products. In this article, I will be mentioned you how to install a Canon printer on Windows and Mac computers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why Choose Ij.start.canon?
 
-### Markdown
+To get the latest and updated drivers for all your ** Canon printer** models.
+All the printers are very fast and reliable.
+It is very easy to set up a canon printer by visiting ij.start.canon official website.
+If you face any issue during installation, the Canon printer tech support expert will always there.
+When you buy a printer you may see the driver download link on the box which is ij.start.canon setup to get drivers.
+On this website, you will get all Canon printers model drivers.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
+# Ij.start.canon
 ## Header 2
 ### Header 3
 
