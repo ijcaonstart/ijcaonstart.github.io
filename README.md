@@ -4,21 +4,39 @@ The Canon printer which is one of the preferred printers is also popular for pho
 
 ### Why Choose Ij.start.canon?
 
-To get the latest and updated drivers for all your ** Canon printer** models.
+To get the latest and updated drivers for all your Canon printer models.
+
 All the printers are very fast and reliable.
+
 It is very easy to set up a canon printer by visiting ij.start.canon official website.
+
 If you face any issue during installation, the Canon printer tech support expert will always there.
+
 When you buy a printer you may see the driver download link on the box which is ij.start.canon setup to get drivers.
+
 On this website, you will get all Canon printers model drivers.
 
-# Ij.start.canon
+# Install canon printer setup
+
 ## Header 2
 ### Header 3
 
 - Bulleted
 - List
 
-1. Numbered
+1. To start with the installation procedure, power off the Canon printer.
+Now, start the installer on your computer.
+Go to the ij.start.canon to download the printer drivers.
+After the downloading process is complete,
+Double-click on the printer icon in the Downloads folder.
+In Windows computer, administrative rights are required to install or uninstall any software on your computer.
+Select “OK or Allow” to continue with the printer driver installation process.
+To use the Canon printer over a network, manually choose the connection destination from the client.
+Click Cancel in the Connect Cable screen.
+Select “Yes” on the confirmation screen.
+Choose the Select Printer Port check box.
+Click the Manual Selection option.
+Restart your computer to conclude the canon printer driver installation.
 2. List
 
 **Bold** and _Italic_ and `Code` text
